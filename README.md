@@ -7,7 +7,13 @@ SQLD 공부를 위해 응시하였던 **SQLD (SQL Developer) 제2과목** 정리
 <br/>
 <br/>
 
+### 시험 결과
+![SQLD 시험 결과](https://i.imgur.com/WyfEA3O.png)
+<br/>
+<br/>
+
 ### 참고 자료
 - `[2024 유선배 SQL개발자(SQLD) 과외노트]`, 정미나, 시대고시기획 시대교육, 2024
 - `[SQL 자격검정 실전문제]`, 한국데이터산업진흥원, 도서출판 홍릉, 2024
 - [HDATALAB 홍쌤 SQLD 강의 및 교안](https://hdatalab.co.kr/shop_view/?idx=13)
+
